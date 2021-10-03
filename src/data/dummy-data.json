@@ -1,0 +1,11 @@
+[
+    {"id":1,"fname":"Rahul","lname":"Gupta","favourites":true},
+    {"id":2,"fname":"Shivangi","lname":"Sharma","favourites":false},
+    {"id":3,"fname":"Akash","lname":"Singh","favourites":false},
+    {"id":4,"fname":"Rajat","lname":"Sharma","favourites":true},
+    {"id":5,"fname":"Amol","lname":"Verma","favourites":false},
+    {"id":6,"fname":"Tiana","lname":"Pandey","favourites":false},
+    {"id":7,"fname":"Mohak","lname":"Mehta","favourites":true},
+    {"id":8,"fname":"Kavya","lname":"Sharma","favourites":false},
+    {"id":9,"fname":"Anika","lname":"Bajaj","favourites":false}
+  ]

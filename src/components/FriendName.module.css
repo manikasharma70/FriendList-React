@@ -1,0 +1,53 @@
+.App {
+    background-color: #282c34;
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(36, 36, 36);
+  }
+  
+  /* .Applogo {
+    height: 7vmin;
+    cursor: pointer;
+    display: inline-flex;
+    border: solid;
+    margin: 10px;
+  } */
+
+  .Applogo{
+    position: relative;
+    font: inherit;
+    height: 7vmin;
+    border: solid;
+    margin: 10px;
+    color: white;
+    box-shadow: 0 0 4px rgb(0 0 0 / 26%);
+    cursor: pointer;
+    left: 68%;
+    bottom: 22px;
+  }
+  
+  .FriendList{
+    width: 26rem;
+    margin-bottom: 12px;
+    max-width: 90%;
+    padding: 2rem;
+    /* box-shadow: 0 2px 12px rgb(0 0 0 / 20%); */
+    border-radius: 10px;
+    height: 31px;
+    background-color: #efeeee;
+  }
+
+  .FriendList span{
+      font-weight: 500;
+    font: inherit;
+    padding: 0.5rem 1.5rem;
+    position: absolute
+  }
+  
+  
+  
