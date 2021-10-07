@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FriendList-React/static/css/main.3ae05a78.chunk.css",
+    "main.js": "/FriendList-React/static/js/main.4531d89b.chunk.js",
+    "main.js.map": "/FriendList-React/static/js/main.4531d89b.chunk.js.map",
+    "runtime-main.js": "/FriendList-React/static/js/runtime-main.23738676.js",
+    "runtime-main.js.map": "/FriendList-React/static/js/runtime-main.23738676.js.map",
+    "static/js/2.811732f8.chunk.js": "/FriendList-React/static/js/2.811732f8.chunk.js",
+    "static/js/2.811732f8.chunk.js.map": "/FriendList-React/static/js/2.811732f8.chunk.js.map",
+    "index.html": "/FriendList-React/index.html",
+    "static/css/main.3ae05a78.chunk.css.map": "/FriendList-React/static/css/main.3ae05a78.chunk.css.map",
+    "static/js/2.811732f8.chunk.js.LICENSE.txt": "/FriendList-React/static/js/2.811732f8.chunk.js.LICENSE.txt",
+    "static/media/bin.a6fd2950.png": "/FriendList-React/static/media/bin.a6fd2950.png",
+    "static/media/star.190d870d.png": "/FriendList-React/static/media/star.190d870d.png",
+    "static/media/staractive.d0cbd94e.png": "/FriendList-React/static/media/staractive.d0cbd94e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23738676.js",
+    "static/js/2.811732f8.chunk.js",
+    "static/css/main.3ae05a78.chunk.css",
+    "static/js/main.4531d89b.chunk.js"
+  ]
+}
